@@ -88,3 +88,7 @@ masoncyber10.com
 - Manager approval before access is granted; periodic access reviews to catch privilege creep.
 - Automation through tools such as Entra ID, Okta or SailPoint.
 - Disabled accounts deleted after a 30-90 day retention period.
+
+
+# AWS Identity Lifecycle Management
+
