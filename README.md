@@ -90,5 +90,4 @@ masoncyber10.com
 - Disabled accounts deleted after a 30-90 day retention period.
 
 
-# AWS Identity Lifecycle Management
 
